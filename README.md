@@ -1,7 +1,4 @@
 
----
-
-### ✅ What's next?
 Here's a full list of API's **CRUD endpoints** for the `/api/users` resource, including **GET, POST, PUT, and DELETE**, with example usage and request bodies. This works for the backend code you now have.
 
 ---
